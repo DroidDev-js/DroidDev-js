@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Arthur / DroidDev
 
+## Hello, World! I'm Arthur, also known as Droid. Be very welcome!
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
